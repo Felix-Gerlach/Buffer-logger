@@ -228,16 +228,6 @@ The app automatically converts between units of the same type when calculating f
 
 ---
 
-## Default Buffers
-
-Buffer Logger ships with a curated set of buffers commonly used in cytoskeleton and in vitro reconstitution research:
-
-- **Stocks:** BSA 10%, Methylcellulose 10%, GTP 0.1 M, DTT 0.9 M, GMPCPP 0.5 mM, Neutravidin 1 mg/mL, Glucose 150 mg/mL, Glucose Oxidase, Catalase, Tubulin stocks, MAP stock, 20× BRB, 10× MAP Buffer, 15× HKEM
-- **Simple Buffers:** 1× BRB, BRB/BSA, BRB/MAP, BRB/MC, Neutravidin 50 µg/mL, Antifading, GTP 10 mM
-- **Compound Buffers:** Polymerization mix, Capping mix, Incorporation mix, Wash Buffer
-
-These can be modified or deleted. Delete `buffers.json` to restore them at any time.
-
 ## License
 
 GPL-3.0
